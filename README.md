@@ -1,1 +1,2 @@
-MACHINE LEARNING MODEL FOR IRIS DATASET (https://www.kaggle.com/code/sxsntd/iris-dataset)
+1. use sublime or visual studio 
+2. open u can run the in cmd flask run app.py (cmiw)
